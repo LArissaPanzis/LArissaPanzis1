@@ -1,8 +1,8 @@
-# Bom dia
-### Boas vindas ao meu perfil :black_heart :purple_heart
-Meu nome é Lauri
+# Welcome to the mato
+### Cerveja gelada, piscina e churrasco
+Welcome to the mato
 
-- Estou estudando na Alura
+- Novinha descendo na quatro por quatro
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
